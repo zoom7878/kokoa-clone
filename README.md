@@ -1,3 +1,3 @@
 # Kokoa clone
 
-hey
+Let's go!
